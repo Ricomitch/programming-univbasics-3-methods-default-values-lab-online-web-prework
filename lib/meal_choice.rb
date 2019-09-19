@@ -1,3 +1,3 @@
-def meal_choice (veg1, veg2, )
-  puts
+def meal_choice (veg1, veg2, protein "meat" )
+  puts 
 end  
